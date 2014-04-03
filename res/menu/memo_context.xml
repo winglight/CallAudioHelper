@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_memo_combine"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_memo_combine"/>
+    <item
+        android:id="@+id/action_memo_delete"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_delete"
+        android:icon="@android:drawable/ic_menu_delete"/>
+    <item
+        android:id="@+id/action_memo_share"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_memo_share"
+        android:icon="@android:drawable/ic_menu_share"/>
+
+</menu>

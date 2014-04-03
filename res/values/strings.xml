@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Call Helper</string>
+    <string name="memo_title">Memos of %1$s</string>
+    <string name="action_add">Add</string>
+    <string name="action_more">More</string>
+    <string name="action_memo_combine">Merge</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_memo_share">Share</string>
+    <string name="confirm_overwrite_title">%1$s exists already, import again?</string>
+    <string name="confirm_overwrite_msg">Click ok, will overwrite name and phone number with Contact\'s info.</string>
+	<string name="call">Call</string>
+	<string name="speech_title">Speech to text</string>
+	<string name="speech_hint">Please say memo at normal speed without any longer pause</string>
+	<string name="last_call_datetime">Last Call At: %1$s</string>
+	<string name="memo_call_datetime">Created At: %1$s</string>
+	<string name="save">Save</string>
+	<string name="play">Play</string>
+	<string name="memo_hint">Please input any memo here</string>
+	<string name="memo_editor">Memo Editor</string>
+	<string name="no_memo_hint">No any memo here, please click the right-top corner menu \"ADD\" or the bottom mic button to create memo of your contact.</string>
+	<string name="no_contact_hint">No any contact here, please click the right-top corner menu \"ADD\" to create your contact.</string>
+	<string name="selected_amount">%1$s selected</string>
+	<string name="share_suffix">By #Call Helper#</string>
+	<string name="choose_number">Choose number to dial</string>
+	<string name="confirm_delete">Confirm to delete?</string>
+	
+	<string name="voice_recognize_not_supported">Voice recognizer not present</string>
+	<string name="voice_recognize_error_audio">Voice recognizer failed for Audio Error</string>
+	<string name="voice_recognize_error_client">Voice recognizer failed for Client Error</string>
+	<string name="voice_recognize_error_network">Voice recognizer failed for Network Error</string>
+	<string name="voice_recognize_error_nomatch">Voice recognizer failed for No Match</string>
+	<string name="voice_recognize_error_server">Voice recognizer failed for Server Error</string>
+	
+	<string name="share_subject">Share</string>
+	<string name="share_value">Share a cool APP——#Call Helper(Android)# http://www.yi4all.com/</string>
+	<string-array name ="more">
+        <item>Feedback</item>
+        <item>Share APP</item>
+        <item>Update APP(V1.0.0)</item>
+        <item>About Us</item>
+        <item>Terms</item>
+    </string-array>
+</resources>

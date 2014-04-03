@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">电话小蜜</string>
+    <string name="memo_title">%1$s 备忘</string>
+    <string name="action_add">添加</string>
+    <string name="action_more">更多</string>
+    <string name="action_memo_combine">合并</string>
+    <string name="action_delete">删除</string>
+    <string name="action_memo_share">分享</string>
+    <string name="confirm_overwrite_title">%1$s 已存在, 是否重新导入?</string>
+    <string name="confirm_overwrite_msg">点击确定,将覆盖联系人的姓名,电话,头像等基本信息.</string>
+	<string name="call">电话</string>
+	<string name="speech_title">听写</string>
+	<string name="speech_hint">请已普通语速说出备忘内容,短暂停顿将作为逗号或句号,长时间停顿将自动退出听写</string>
+	<string name="last_call_datetime">上次通话时间: %1$s</string>
+	<string name="memo_call_datetime">创建时间: %1$s</string>
+	<string name="save">保存</string>
+	<string name="play">播放</string>
+	<string name="memo_hint">请输入备忘信息</string>
+	<string name="memo_editor">备忘录入</string>
+	<string name="no_memo_hint">还没有任何备忘, 请点击右上角的"添加"菜单来为你的联系人增加备忘,或者点击下方麦克风按钮进行听写.</string>
+	<string name="no_contact_hint">还没有任何联系人,请点击右上角的"添加"菜单导入通讯录中的联系人.</string>
+	<string name="selected_amount">%1$s 已选中</string>
+	<string name="share_suffix">由 #电话小蜜#</string>
+	<string name="choose_number">请选择要拨打的号码</string>
+	<string name="confirm_delete">确认删除吗?</string>
+	
+	<string name="voice_recognize_not_supported">语音识别功能无效,请安装Google相关服务</string>
+	<string name="voice_recognize_error_audio">语音识别出错: 语音识别错误</string>
+	<string name="voice_recognize_error_client">语音识别出错: 手机端错误</string>
+	<string name="voice_recognize_error_network">语音识别出错: 网络连接错误，请检查网络</string>
+	<string name="voice_recognize_error_nomatch">语音识别出错: 未找到匹配的文字,请使用标准普通话再次尝试</string>
+	<string name="voice_recognize_error_server">语音识别出错: 服务器错误</string>
+	
+	<string name="share_subject">Share</string>
+	<string name="share_value">亲们，分享一个好东东——#电话小蜜(Android)# 通话备忘,语音录入小秘书 http://www.yi4all.com/</string>
+	<string-array name ="more">
+        <item>意见反馈</item>
+        <item>一键分享</item>
+        <item>版本更新(V1.0.0)</item>
+        <item>关于我们</item>
+        <item>使用条款</item>
+    </string-array>
+</resources>
